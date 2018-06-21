@@ -15,6 +15,9 @@ CodeSendbox를 통해 온라인으로 코드를 테스트하면서 공부했다.
 관련 자료
 - velopert님의 유투브 : https://youtu.be/8RVoVvgaQdY?list=PL9FpF_z-xR_E4rxYMMZx5cOpwaiwCzWUH
 - velopert님의 강의 자료  : https://react-anyone.vlpt.us
+- velopert님의 블로그 : https://velopert.com/3613
 - ES6 자료 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/애로우_펑션
 - CodeSendbox : https://codesandbox.io
+- react Doc : https://reactjs.org/docs/try-react.html
+
 ------------------------------------------------------------
