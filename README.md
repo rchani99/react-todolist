@@ -19,5 +19,6 @@ CodeSendbox를 통해 온라인으로 코드를 테스트하면서 공부했다.
 - ES6 자료 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/애로우_펑션
 - CodeSendbox : https://codesandbox.io
 - react Doc : https://reactjs.org/docs/try-react.html
+- 러닝 리액트 책의 코드 : https://github.com/enshahar/learning-react-kor
 
 ------------------------------------------------------------
