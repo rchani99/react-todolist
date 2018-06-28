@@ -21,4 +21,8 @@ CodeSendbox를 통해 온라인으로 코드를 테스트하면서 공부했다.
 - react Doc : https://reactjs.org/docs/try-react.html
 - 러닝 리액트 책의 코드 : https://github.com/enshahar/learning-react-kor
 
-------------------------------------------------------------
+-------------------------------------------------------------
+- webpack 사용하기 : https://webpack.js.org/guides/getting-started/
+- webpack 플로그인 UglifyjsWebpackPlugin를 사용하여 난독화하기 : https://webpack.js.org/plugins/uglifyjs-webpack-plugin/#src/components/Sidebar/Sidebar.jsx
+- 자동으로 react 프로젝트 생성하기 : https://github.com/facebook/create-react-app
+
