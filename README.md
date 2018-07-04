@@ -13,12 +13,19 @@ CodeSendbox를 통해 온라인으로 코드를 테스트하면서 공부했다.
 -JSX
 
 관련 자료
+Javascript ES6
+- Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+- 바벨 REPL : http://babeljs.io/
+
+- React Totorial : https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
+- React Main Concept : https://reactjs.org/docs/hello-world.html
+- React Try React : https://reactjs.org/docs/try-react.html
+
 - velopert님의 유투브 : https://youtu.be/8RVoVvgaQdY?list=PL9FpF_z-xR_E4rxYMMZx5cOpwaiwCzWUH
 - velopert님의 강의 자료  : https://react-anyone.vlpt.us
 - velopert님의 블로그 : https://velopert.com/3613
-- ES6 자료 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/애로우_펑션
+
 - CodeSendbox : https://codesandbox.io
-- react Doc : https://reactjs.org/docs/try-react.html
 - 러닝 리액트 책의 코드 : https://github.com/enshahar/learning-react-kor
 
 -------------------------------------------------------------
