@@ -39,5 +39,7 @@ Javascript ES6
 - VS Code Setting
   - Plugin 설치
     - React Native Full Pack : https://marketplace.visualstudio.com/items?itemName=kelset.rn-full-pack
-    
+    - React Snippets Lib : https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets#review-details
+    - Setting Sync 설정 (https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+      - Github의 gist 인증키 생성 & VS CODE에 설정하기
 
