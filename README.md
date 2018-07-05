@@ -33,3 +33,11 @@ Javascript ES6
 - webpack 플로그인 UglifyjsWebpackPlugin를 사용하여 난독화하기 : https://webpack.js.org/plugins/uglifyjs-webpack-plugin/#src/components/Sidebar/Sidebar.jsx
 - 자동으로 react 프로젝트 생성하기 : https://github.com/facebook/create-react-app
 
+-------------------------------------------------------------
+- IDE로 VS Code 사용하기
+- VS Code 설치하기(Mac용 Guide) : https://code.visualstudio.com/docs/setup/mac
+- VS Code Setting
+  - Plugin 설치
+    - React Native Full Pack : https://marketplace.visualstudio.com/items?itemName=kelset.rn-full-pack
+    
+
